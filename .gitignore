@@ -1,0 +1,6 @@
+#raw data files to the project (no need to track)
+noshowappointments-kagglev2-may-2016.csv
+noshowappointments-kagglev2-may-2016_clean.csv
+
+#macOS internal file (no need to track)
+.DS_Store
