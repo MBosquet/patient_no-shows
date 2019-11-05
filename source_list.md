@@ -23,6 +23,10 @@ up and adapted from [Stackoverflow](https://stackoverflow.com/questions/35595710
 df.drop(df.index[df['Age'] < 0], inplace = True) <br>
 looked up and adapted from [Stackoverflow](https://stackoverflow.com/questions/18172851/deleting-dataframe-row-in-pandas-based-on-column-value)
 
+* Statistics on age structure and sex ratio <br>
+[IndexMundi/age_structure](https://www.indexmundi.com/brazil/age_structure.html) <br>
+[IndexMundi/sex_ratio](https://www.indexmundi.com/brazil/sex_ratio.html)
+
 * color scheme for graphs from [matplotlib documentation](https://matplotlib.org/_images/sphx_glr_named_colors_003.png)
 
 * pie chart extras from [matplotlib documentation](https://matplotlib.org/3.1.1/gallery/pie_and_polar_charts/pie_features.html#sphx-glr-gallery-pie-and-polar-charts-pie-features-py)
