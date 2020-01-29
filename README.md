@@ -28,4 +28,4 @@ The analysis provides first answers to research questions:
 ### Credits
 This project was created as part of a Udacity Nanodegree Course.
 
-The jupyter notebook "noshowappointments.ipynb" containing the analysis is build from a template provided by [Udacity's Data Analyst Nanodegree]((https://www.udacity.com/course/data-analyst-nanodegree--nd002). The "noshowappointments-kagglev2-may-2016.csv" file with the raw data was made available as part of the course and provided by [Kaggle](https://www.kaggle.com/joniarroba/noshowappointments).
+The jupyter notebook "noshowappointments.ipynb" containing the analysis is built from a template provided by [Udacity's Data Analyst Nanodegree]((https://www.udacity.com/course/data-analyst-nanodegree--nd002). The "noshowappointments-kagglev2-may-2016.csv" file with the raw data was made available as part of the course and provided by [Kaggle](https://www.kaggle.com/joniarroba/noshowappointments).
